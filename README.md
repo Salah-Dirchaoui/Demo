@@ -1,3 +1,9 @@
-#FIRST TITLE FOR MY PROJECT
-lorem ipsum 
-update some line here after updating the bad branch 
+
+
+
+
+
+#This is just training on git from Mr Id Brahim Mohamed @ Birght Coding
+
+
+
